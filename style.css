@@ -72,3 +72,9 @@ main a:hover {
     gap: 0;
   }
 }
+
+@media (max-width: 768px) {
+  body {
+    padding-bottom: 16rem;
+  }
+}

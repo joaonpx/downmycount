@@ -75,6 +75,6 @@ main a:hover {
 
 @media (max-width: 768px) {
   body {
-    padding-bottom: 16rem;
+    padding-bottom: 8rem;
   }
 }
